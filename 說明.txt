@@ -2,3 +2,5 @@
 像是
 Program 1.四種sort  + makefile寫法 +main.cpp中fstream用法 +argv(以上也可在recitation week6)
 	2.給定每條弦 球circle上最大不相交弦 maximum planar subset
+	3.做出undirected directed的cycle breaking(最小weight去打破一個cycle)
+	undirected 可以往MST去想
