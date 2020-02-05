@@ -1,0 +1,5 @@
+inputs為PA1提供的測資
+若想要測試 把他丟到跟outputs並行的那格
+segmentation fault就用ulimit -s 調整給的記憶體大小
+
+此程式為各種sort的實作

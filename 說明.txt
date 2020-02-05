@@ -1,0 +1,4 @@
+這個資料夾儲存了所有program作業 若之後忘記了程式詳細內容可以拿來研究
+像是
+Program 1.四種sort  + makefile寫法 +main.cpp中fstream用法 +argv(以上也可在recitation week6)
+	2.給定每條弦 球circle上最大不相交弦 maximum planar subset
